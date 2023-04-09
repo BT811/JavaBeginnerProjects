@@ -7,14 +7,12 @@ public class DeseneGoreMetot {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+        int n;
 
-        int n1=10;
-        figure(7);
+        System.out.println("Enter the number: ");
+        n = input.nextInt();
 
-
-
-
-
+        figure(n);
 
     }
     static void figure(int a) {
