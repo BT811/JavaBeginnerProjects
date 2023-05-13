@@ -1,0 +1,9 @@
+Liste Durumu : Boş Liste Durumu : Dolu
+Indeks : 1
+Indeks :-1
+Indeks : 4
+Object dizisinin ilk elemanı :10
+[10,20,30,40]
+Listemde 20 değeri : true
+Listemde 120 değeri : false
+[]
